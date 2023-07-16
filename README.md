@@ -9,11 +9,11 @@ This project aims to analyze a large dataset gleaned from the twitter API. The d
 This dataset contains 1,600,000 tweets extracted using the twitter API.
 It contains the following 5 fields:
 
-ids: The id of the tweet (eg. 4587) 
-date: the date of the tweet (eg. Sat May 16 23:58:44 UTC 2009)
+ids: The id of the tweet (eg. 4587).
+date: the date of the tweet (eg. Sat May 16 23:58:44 UTC 2009).
 flag: The query (eg. lyx). If there is no query, then this value is NO_QUERY.
-user: the user that tweeted (eg. bobthebuilder)
-text: the text of the tweet (eg. Lyx is cool)
+user: the user that tweeted (eg. bobthebuilder).
+text: the text of the tweet (eg. Lyx is cool).
 
 ## Ojectives
 
