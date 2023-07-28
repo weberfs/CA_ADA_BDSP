@@ -20,5 +20,5 @@ It contains the following 5 fields:
 1. Utilisation of Hadoop and Spark for storage and distributed data processing environment.
 2. Perform a comprehensive analysis of the pre-processed dataset, extracting relevant information and insights from the tweets.
 3. Conduct sentiment analysis to determine the sentiment (positive, negative, or neutral) expressed in the tweets.
-4. Develop a time series forecast of the sentiment for the entire dataset, predicting sentiment trends at 1 week, 3 weeks and 1 month using ARMA, ARIMA and SARIMAX.
+4. Develop a time series forecast of the sentiment for the entire dataset, predicting sentiment trends at 1 week, 2 weeks and 3 weeks using ARMA, ARIMA and SARIMAX.
 5. Present the sentiment forecast as a dynamic dashboard for easy visualisation and interpretation using Holoviz libraries in jupyter notebook.
