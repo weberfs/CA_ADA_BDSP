@@ -2,7 +2,7 @@
 
 ## Description
 
-This project aims to analyze a large dataset gleaned from the twitter API. The dataset named “ProjectTweets.csv” contains a collection of tweets that will be used for sentiment analysis and time series forecasting.
+This project aims to analyse a large dataset gleaned from the twitter API. The dataset named “ProjectTweets.csv” contains a collection of tweets that will be used for sentiment analysis and time series forecasting.
 
 ## Context
 
